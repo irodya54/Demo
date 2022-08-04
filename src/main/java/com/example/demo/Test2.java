@@ -3,7 +3,7 @@
 //import org.springframework.context.ApplicationContext;
 //import org.springframework.context.support.ClassPathXmlApplicationContext;
 //
-//public class Test2 {
+//public class hibernate_OneToOne.Entity.Test2 {
 //    public static void main(String[] args) {
 //        ClassPathXmlApplicationContext context =
 //                new ClassPathXmlApplicationContext("applicationContext.xml");
